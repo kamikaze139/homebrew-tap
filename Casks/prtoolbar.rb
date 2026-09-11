@@ -1,6 +1,6 @@
 cask "prtoolbar" do
-  version "0.1.0"
-  sha256 "2efcda4d0e8885619ae4f879bb3d23d2a45333d3d224fa1e97ee88fd4ee3ae95"
+  version "0.1.1"
+  sha256 "c6f33dc36d3602166d4b66bd2310db16d1fbabb0351064c9ac0d34756a714547"
 
   url "https://github.com/kamikaze139/homebrew-tap/releases/download/v#{version}/prtoolbar-v#{version}-universal-apple-darwin.zip"
   name "prtoolbar"
